@@ -14,6 +14,16 @@ XA-180S			Armored personnel carrier		1980s–present
 XA-202S			Command vehicle
 XA-203S			Armored personnel carrier					-20mm cannon
 
+Ptgb 5    4x4 utility vehicle
+RG-32M Galten   Mine-resistant 4x4 vehicle
+Terrängbil 11 
+
+MOWAG Piranha
+Patria AMV
+Patria Pasi
+Strf 90
+
+
 Ikv 91			Infantry support vehicle		1975–2002
 Ikv 105											-105mm cannon
 
