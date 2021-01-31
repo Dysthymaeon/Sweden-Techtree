@@ -9,6 +9,7 @@ Tgbil m/42 KP		Armored personnel carrier		1944–2004
 
 Pbv 301			Armored personnel carrier		1961–1971
 Pbv 302			Armored personnel carrier		1965–present
+
 Patria Pasi		
 XA-180S			Armored personnel carrier		1980s–present
 XA-202S			Command vehicle
@@ -18,11 +19,14 @@ Ptgb 5    4x4 utility vehicle
 RG-32M Galten   Mine-resistant 4x4 vehicle
 Terrängbil 11 
 
-MOWAG Piranha
-Patria AMV
-Patria Pasi
-Strf 90
-
+MOWAG Piranha   Wheeled armoured personnel carrier
+Piranha IIIC
+Patria AMV    Wheeled armoured personnel carrier  Designated Pansarterrängbil 360 (Armoured Terrain Vehicle 360).
+Strf 90     Tracked infantry fighting vehicle
+CV9040
+CV9040A
+CV9040B
+CV9040C
 
 Ikv 91			Infantry support vehicle		1975–2002
 Ikv 105											-105mm cannon
