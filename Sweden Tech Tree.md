@@ -15,14 +15,24 @@ XA-180S			Armored personnel carrier		1980s–present
 XA-202S			Command vehicle
 XA-203S			Armored personnel carrier					-20mm cannon
 
-Ptgb 5    4x4 utility vehicle
-RG-32M Galten   Mine-resistant 4x4 vehicle
+Ptgb 5   		 4x4 utility vehicle
+RG-32M Galten   	Mine-resistant 4x4 vehicle
 Terrängbil 11 
+Tgb 11   		4x4 infantry truck
+Tgb 1111		4x4 anti-tank vehicle					-Equipped with the Pvpj 1110 90mm recoilless gun
+Tgb 1112		4x4 communications vehicle
+Tgb 13			6x6 infantry truck
+Tgb 1313		6x6 communications vehicle	
+Tgb 1321		6x6 artillery spotter
+Tgb 21			6x6 armored personnel carrier"
+Tgb 22			MANPADS carrier						-Equipped with the RBS 70
 
-MOWAG Piranha   Wheeled armoured personnel carrier
+MOWAG Piranha   	Wheeled armoured personnel carrier
 Piranha IIIC
-Patria AMV    Wheeled armoured personnel carrier  Designated Pansarterrängbil 360 (Armoured Terrain Vehicle 360).
-Strf 90     Tracked infantry fighting vehicle
+
+Patria AMV    		Wheeled armoured personnel carrier  			Designated Pansarterrängbil 360 (Armoured Terrain Vehicle 360).
+
+Strf 90    		 Tracked infantry fighting vehicle
 CV9040
 CV9040A
 CV9040B
